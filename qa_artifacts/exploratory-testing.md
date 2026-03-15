@@ -68,4 +68,4 @@
 - Cancel at each step, navigation consistency  
 **Risks:** Broken flows, data loss on navigation  
 **Oracles:** Intuitive navigation, no data loss  
-**What Could Go Wrong:** Stuck pages, lost progress, inconsistent states  
+**What Could Go Wrong:** Stuck pages, lost progress, inconsistent states
